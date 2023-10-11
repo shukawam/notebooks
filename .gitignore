@@ -1,3 +1,7 @@
 kaggle/
 input/
 predict/
+__pycache__/
+*.zip
+debug.log
+*.jpg
