@@ -5,3 +5,4 @@ __pycache__/
 *.zip
 debug.log
 *.jpg
+*.jpeg
