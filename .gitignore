@@ -7,3 +7,5 @@ debug.log
 *.jpg
 *.jpeg
 whl/
+storage/
+.env
