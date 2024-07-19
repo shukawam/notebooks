@@ -9,3 +9,6 @@ debug.log
 whl/
 storage/
 .env
+data/
+customer/
+scripts/
